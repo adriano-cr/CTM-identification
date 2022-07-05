@@ -32,8 +32,8 @@ addpath(p);
 % plot the data obtained graphs
 opt_DATEX.display = 1;
 
-opt_DATEX.path = 'C:\A_Tesi\CTM-identification\fnc\data_reader\extracted_data';
-%opt_DATEX.path = 'C:/Users/adria/Documents/Uni/LM II anno/Tesi/CTM-identification/fnc/data_reader/extracted_data/';
+%opt_DATEX.path = 'C:\A_Tesi\CTM-identification\fnc\data_reader\extracted_data';
+opt_DATEX.path = 'C:/Users/adria/Documents/Uni/LM II anno/Tesi/CTM-identification/fnc/data_reader/extracted_data/';
 %opt_DATEX.path = 'H:\Il mio Drive\Tesi magistrale\CTM-identification\fnc\data_reader\extracted_data';
 
 % minimum frequency per minute at which you want the
